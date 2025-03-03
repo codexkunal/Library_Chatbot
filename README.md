@@ -4,8 +4,9 @@ Here is the detailed Prototype Video showcasing the integeration of the Chatbot 
 
 https://github.com/user-attachments/assets/b2872cfc-bf41-4e3e-89a1-811acac82391
 
-📚 Library Assistant Chatbot
-🔹 Overview
+
+#  Overview
+
 The Library Assistant Chatbot is an AI-powered virtual assistant designed to help users with general library queries. It efficiently provides information about library policies, membership, opening hours, borrowing rules, and more. The chatbot can be easily integrated into the library website, enhancing accessibility and user engagement.
 
 #  Features
